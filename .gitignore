@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+myvenv
+enrollment
+/static
+.DS_Store
